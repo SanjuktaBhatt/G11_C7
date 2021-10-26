@@ -64,7 +64,7 @@ while carryOn:
     #Code for orange ball collision here
    
   
-    pygame.time.wait(1)
+    pygame.time.wait(10)
     pygame.display.flip()       
 pygame.quit(  )
 
