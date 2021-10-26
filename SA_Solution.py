@@ -78,7 +78,7 @@ while carryOn:
             velocity[1]=-velocity[1]
             score+=2
   
-    pygame.time.wait(1)
+    pygame.time.wait(10)
     pygame.display.flip()       
 pygame.quit(  )
 
